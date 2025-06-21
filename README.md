@@ -16,4 +16,4 @@ In order to make the axons follow a trajectory similar to the one described abov
 2. Move centrally towards the midline
 3. Descend into the otic disc target zone
 
-__See Full project file in the project folder.__
+__See Full project file__
